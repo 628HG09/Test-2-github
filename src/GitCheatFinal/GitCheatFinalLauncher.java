@@ -1,0 +1,7 @@
+package GitCheatFinal;
+
+public class GitCheatFinalLauncher {
+    public static void main(String[] args) {
+        System.out.println("git cheat");
+    }
+}
